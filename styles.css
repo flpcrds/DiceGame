@@ -1,0 +1,68 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  align-content: center;
+}
+.changeableh1{
+  visibility: visible;
+  align-items: center;
+}
+
+.btn{
+  margin: 2em 0 0.2em;
+  width: 8em;
+  height: 3em;
+  font-weight: 600;
+  font-size: larger;
+  padding: 0;
+}
+
+.dicep1 {
+  text-align: center;
+  display: inline-block;
+
+}
+.dicep2 {
+  text-align: center;
+  display: inline-block;
+}
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 3px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+  display: inline-flex;
+  align-items: baseline;
+}
+
+.victoryFlag{
+  display: inline-block;
+  width: 8rem;
+  height: 7rem;
+  visibility: visible;
+  margin-left: 0.2em;
+  }
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
